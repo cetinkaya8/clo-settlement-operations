@@ -141,7 +141,7 @@ To change Excel column names, update `EXCEL_COLUMN_NAMES` in `config.py`.
 
 ## 👤 Author
 
-[Your Name]
+[-]
 
 ## 📄 Version
 
